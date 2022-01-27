@@ -1,0 +1,19 @@
+#body{
+    background-color: #282828
+}
+
+#header {
+    display: flex;
+    height: 60px;
+    background-color:black ;
+    font-style: normal;
+    align-items: center;
+    justify-content: center;
+}
+.user-button {
+    width: 100px;
+    background-color: beige;
+    border-width: 1px;
+    border-radius: 20%;
+    height: 30px;
+}
